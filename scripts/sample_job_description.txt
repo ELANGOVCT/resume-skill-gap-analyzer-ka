@@ -1,0 +1,43 @@
+Senior Full-Stack Developer
+
+ABOUT THE ROLE
+We are seeking an experienced Senior Full-Stack Developer to join our growing engineering team. 
+You will be responsible for designing, developing, and maintaining scalable cloud-based applications.
+
+REQUIRED SKILLS
+- 5+ years of experience in full-stack development
+- Strong proficiency in Python and JavaScript/TypeScript
+- Experience with modern frontend frameworks (React, Angular, or Vue)
+- Backend development with Node.js or Django
+- Database expertise: PostgreSQL, MongoDB, or MySQL
+- Cloud platform experience: AWS, Azure, or GCP
+- Containerization: Docker and Kubernetes
+- CI/CD pipeline experience with Jenkins or GitLab
+- Version control: Git and GitHub
+- RESTful API design and development
+
+TECHNICAL REQUIREMENTS
+- Microservices architecture experience
+- Experience with message queues (RabbitMQ, Kafka)
+- Knowledge of GraphQL
+- Infrastructure as Code: Terraform or Ansible
+- Monitoring and logging tools
+
+SOFT SKILLS
+- Excellent communication and collaboration skills
+- Leadership and mentoring abilities
+- Strong problem-solving and analytical thinking
+- Ability to work in Agile/Scrum environment
+- Time management and organizational skills
+
+NICE TO HAVE
+- Machine learning or data science background
+- Experience with React Native or mobile development
+- Open source contributions
+- Technical blog or speaking experience
+
+WHAT WE OFFER
+- Competitive salary and equity
+- Remote-first culture
+- Professional development opportunities
+- Health and wellness benefits

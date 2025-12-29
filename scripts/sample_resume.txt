@@ -1,0 +1,36 @@
+John Doe
+Software Engineer
+
+SUMMARY
+Experienced software engineer with 5+ years of expertise in full-stack web development. 
+Passionate about building scalable applications using modern technologies.
+
+SKILLS
+- Programming Languages: Python, JavaScript, Java, SQL
+- Web Technologies: React, Node.js, HTML, CSS, Express
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, VS Code, Postman
+- Methodologies: Agile, Scrum
+
+EXPERIENCE
+Senior Software Engineer | Tech Company | 2020-Present
+- Developed responsive web applications using React and Node.js
+- Implemented RESTful APIs using Express and PostgreSQL
+- Collaborated with cross-functional teams using Agile methodology
+- Led code reviews and mentored junior developers
+
+Software Engineer | Startup Inc | 2018-2020
+- Built full-stack applications using Python Django and React
+- Designed and optimized database schemas in PostgreSQL
+- Implemented authentication and authorization using JWT
+- Participated in daily scrums and sprint planning
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2018
+
+SOFT SKILLS
+- Strong communication and presentation skills
+- Team leadership and collaboration
+- Problem-solving and critical thinking
+- Time management and organizational skills
