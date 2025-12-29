@@ -17,17 +17,17 @@ A Python-based application that compares a candidate's resume with a job descrip
 - Python 3.7 or higher
 
 ### Dependencies
-```
+\`\`\`
 nltk>=3.8.0
 scikit-learn>=1.3.0
-```
+\`\`\`
 
 ## Installation
 
 1. Install the required dependencies:
-```bash
+\`\`\`bash
 pip install nltk scikit-learn
-```
+\`\`\`
 
 2. The script will automatically download required NLTK data on first run.
 
@@ -35,9 +35,9 @@ pip install nltk scikit-learn
 
 ### Running the Application
 
-```bash
+\`\`\`bash
 python scripts/resume_skill_gap_analyzer.py
-```
+\`\`\`
 
 ### Input Methods
 
@@ -51,14 +51,14 @@ The application supports two input methods for both resume and job description:
 
 ### Sample Workflow
 
-```
+\`\`\`
 1. Choose input method for resume (paste or file)
 2. Provide resume text
 3. Choose input method for job description (paste or file)
 4. Provide job description text
 5. View comprehensive analysis report
 6. Optionally save report to file
-```
+\`\`\`
 
 ## Output
 
@@ -73,7 +73,7 @@ The analyzer provides:
 
 ## Example Report
 
-```
+\`\`\`
 ================================================================================
                       RESUME SKILL GAP ANALYSIS REPORT                        
 ================================================================================
@@ -106,7 +106,7 @@ Skills Gap:                   7
      Category: Cloud
      Resource: AWS Training, Azure Learn, Google Cloud Skills Boost
   ...
-```
+\`\`\`
 
 ## Technical Details
 
@@ -143,13 +143,13 @@ The application handles:
 
 You can customize the skill dictionary by modifying the `SKILL_DICTIONARY` set in the script:
 
-```python
+\`\`\`python
 SKILL_DICTIONARY = {
     'your_skill_1',
     'your_skill_2',
     # Add more skills...
 }
-```
+\`\`\`
 
 ## Academic Context
 
